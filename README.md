@@ -25,5 +25,5 @@ The project received a 95% grade.
   - Items dropped by character in particular area will remain there
   
 ### Built game map  
-<p align="center"><a target="_blank" src="https://raw.githubusercontent.com/lukeokane/CPlusPlus_Customisable_Game/master/layout.png" ><img alt="Visualization of built game map" src="https://raw.githubusercontent.com/lukeokane/CPlusPlus_Customisable_Game/master/layout.png" width="500" /></img></a></p>
+<p align="center"><a target="_blank" src="https://github.com/lukeokane/CPlusPlus-Customisable-Game/blob/master/layout.png" ><img alt="Visualization of built game map" src="https://github.com/lukeokane/CPlusPlus-Customisable-Game/blob/master/layout.png" width="500" /></img></a></p>
 <p align="center"><i>Visualization of the built game map</i></p>
